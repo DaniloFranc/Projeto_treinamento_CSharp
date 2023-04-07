@@ -1,0 +1,11 @@
+C:\Users\Danil\OneDrive\Área de Trabalho\C#\Aula60\bin\Debug\Aula60.exe.config
+C:\Users\Danil\OneDrive\Área de Trabalho\C#\Aula60\bin\Debug\Aula60.exe
+C:\Users\Danil\OneDrive\Área de Trabalho\C#\Aula60\bin\Debug\Aula60.pdb
+C:\Users\Danil\OneDrive\Área de Trabalho\C#\Aula60\obj\Debug\Aula60.csproj.AssemblyReference.cache
+C:\Users\Danil\OneDrive\Área de Trabalho\C#\Aula60\obj\Debug\Aula60.csproj.SuggestedBindingRedirects.cache
+C:\Users\Danil\OneDrive\Área de Trabalho\C#\Aula60\obj\Debug\Aula60.Form1.resources
+C:\Users\Danil\OneDrive\Área de Trabalho\C#\Aula60\obj\Debug\Aula60.Properties.Resources.resources
+C:\Users\Danil\OneDrive\Área de Trabalho\C#\Aula60\obj\Debug\Aula60.csproj.GenerateResource.cache
+C:\Users\Danil\OneDrive\Área de Trabalho\C#\Aula60\obj\Debug\Aula60.csproj.CoreCompileInputs.cache
+C:\Users\Danil\OneDrive\Área de Trabalho\C#\Aula60\obj\Debug\Aula60.exe
+C:\Users\Danil\OneDrive\Área de Trabalho\C#\Aula60\obj\Debug\Aula60.pdb
